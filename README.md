@@ -25,3 +25,4 @@ This project explores 70 years of extreme weather data in the United States, uti
 * Developed a unique reliability index using the Coefficient of Variation (CV). Results proved that reports from *Trained Spotters*, *Law Enforcement*, and *Emergency Managers* are highly credible, whereas automated sources like *SNOTEL* or *BUOY* showed high variance and lower reliability.
 
 ## 📊 Dashboard Previews
+![Dashboard](https://github.com/ThanhDustin/project-Storm-Events-Data-Analysis-Visualization/blob/main/hinhcorrandsource.jpg)
